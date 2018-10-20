@@ -1,0 +1,3 @@
+To make both client and server: "make"
+To start server: "./serverside"
+To start client: "./clientside"
